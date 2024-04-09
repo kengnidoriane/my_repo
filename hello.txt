@@ -1,3 +1,5 @@
 Hello, GIt
 This is a new line.
 change on the master branch
+change in the conflict-branch branch
+
