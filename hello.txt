@@ -1,2 +1,1 @@
-Hello, GIt
-This is a new line.
+change in the conflict-branch branch
