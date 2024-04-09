@@ -1,1 +1,2 @@
 Hello, GIt
+This is a new line.
